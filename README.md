@@ -1,15 +1,15 @@
-# 👋 Hi, I'm Arivoli Anbarasu
+# Hi, I'm Arivoli Anbarasu
 
 Welcome to my Github 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a first-year master's student at UC San Diego, specializing in Intelligent Systems, Robotics, and Control. I enjoy building and optimizing intelligent systems that blend engineering and AI, and have two years of hands-on R&D experience at Bajaj Auto, where I led simulation-driven engineering projects and learned the value of teamwork, adaptability, and continuous improvement.
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 - **Programming:** Python, C++, MATLAB, Bash
 - **Frameworks & Tools:** PyTorch, CVXPY, Casadi, OMPL, Docker, Linux, Git, Simulink, LaTeX
